@@ -30,6 +30,8 @@ There are several other potentially interesting visualizations;  Such as
 (2) Average trip duration by gender and/or day and/or time of da
 
 
+
+
 ### Code and visualizations  
 
 **Converting to datetime format**
@@ -39,6 +41,10 @@ There are several other potentially interesting visualizations;  Such as
 **Checkout times**  
 
 ![img](https://github.com/fhsal/Bikesharing/blob/main/images/checkout_times.png)
+
+**Checkout times by gender**  
+
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/checkout_times_by_gender.png)
 
 **Trips per hour**  
 
