@@ -34,30 +34,30 @@ There are several other potentially interesting visualizations;  Such as
 
 **Converting to datetime format**
 
-![img](https://github.com/fhsal/surfs-up/blob/main/june_stats.png)
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/datetime_conversion.png)
 
 **Checkout times**  
 
-![img](https://github.com/fhsal/surfs-up/blob/main/dec_stats.png)
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/checkout_times.png)
 
 **Trips per hour**  
 
-![img](https://github.com/fhsal/surfs-up/blob/main/dec_stats.png)
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/trips_by_weekday_by_hour.png)
 
 
 **Trips by gender (per hour)**  
 
-![img](https://github.com/fhsal/surfs-up/blob/main/dec_stats.png)
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/trips_by_gender_by_hour.png)
 
 **User trips by gender by weekday**  
 
-![img](https://github.com/fhsal/surfs-up/blob/main/dec_stats.png)
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/trips_by_weekday_by_gender.png)
 
 
 **Top pickup locations**  
 
-![img](https://github.com/fhsal/surfs-up/blob/main/dec_stats.png)
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/top_starting_locations.png)
 
 **Average trip duration**  
 
-![img](https://github.com/fhsal/surfs-up/blob/main/dec_stats.png)
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/average_trip_duration.png)
