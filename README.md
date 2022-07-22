@@ -71,4 +71,4 @@ There are several other potentially interesting visualizations;  Such as
 
 **Tableau story**  
 
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/average_trip_duration.png)
+![img](https://github.com/fhsal/Bikesharing/blob/main/images/story.png)
