@@ -27,10 +27,14 @@ There are several other potentially interesting visualizations;  Such as
 
 (1) Top pick up locations by gender and/or day and/or time of day
 
-(2) Average trip duration by gender and/or day and/or time of da
+(2) Average trip duration by gender and/or day and/or time of day
 
 
+### Tableau Story
 
+**Tableau story export**  
+
+https://github.com/fhsal/Bikesharing/blob/main/images/citibike_challenge_updated.pdf
 
 ### Code and visualizations  
 
@@ -69,6 +73,4 @@ There are several other potentially interesting visualizations;  Such as
 ![img](https://github.com/fhsal/Bikesharing/blob/main/images/average_trip_duration.png)
 
 
-**Tableau story**  
 
-![img](https://github.com/fhsal/Bikesharing/blob/main/images/story.png)
