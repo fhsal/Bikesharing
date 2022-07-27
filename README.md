@@ -34,7 +34,7 @@ There are several other potentially interesting visualizations;  Such as
 
 **Tableau story export**  
 
-https://github.com/fhsal/Bikesharing/blob/main/images/citibike_challenge_updated.pdf
+https://github.com/fhsal/Bikesharing/blob/main/citibike_challenge_updated.pdf
 
 ### Code and visualizations  
 
